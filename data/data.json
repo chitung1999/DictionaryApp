@@ -6,12 +6,9 @@
         }
     ],
     "setting": {
-        "IPAddress": "127.0.0.1",
         "background": "C:/Users/PVD/Downloads/pexels-christian-heitz-842711.jpg",
         "borderColor": "green",
         "language": "vn",
-        "name": "Admin",
-        "port": 8080,
         "themeColor": "#b0e0e6"
     },
     "words": [
